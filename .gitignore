@@ -1,0 +1,30 @@
+# Firmware / flash images
+*.bin
+*.img
+*.trx
+*.ubi
+*.ubifs
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Device-specific dumps / backups
+dumps/*
+!dumps/README.md
+
+# Local firmware workspace
+firmware/*
+!firmware/README.md
+
+# Raw UART captures
+uart/*.txt
+uart/*.log
+
+# Local/editor files
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
