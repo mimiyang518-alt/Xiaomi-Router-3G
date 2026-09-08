@@ -1,5 +1,8 @@
 # UART Logs
 
+> **历史诊断资料**：这些内容记录设备恢复前的排查过程。设备已经成功恢复；当前实机验证恢复流程请以仓库根目录 `README.md` 为准。
+
+
 This directory stores raw Xiaomi Router 3G serial console captures.
 
 Required first captures:

@@ -1,5 +1,8 @@
 # Xiaomi Router 3G（R3G）启动异常与恢复诊断记录
 
+> **历史诊断资料**：这些内容记录设备恢复前的排查过程。设备已经成功恢复；当前实机验证恢复流程请以仓库根目录 `README.md` 为准。
+
+
 ## 设备背景
 - Xiaomi Router 3G（R3G）
 - MediaTek MT7621
